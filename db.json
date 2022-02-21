@@ -45,8 +45,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-        "updated_at": "2022-02-18T00:22:19.000000Z"
+        }]
     }, {
         "id": 2,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/1618921\/pexels-photo-1618921.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -67,9 +66,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-
-        "updated_at": "2022-02-18T00:23:40.000000Z"
+        }]
     }, {
         "id": 3,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/1199960\/pexels-photo-1199960.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -90,9 +87,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-
-        "updated_at": "2022-02-18T00:29:29.000000Z"
+        }]
     }, {
         "id": 4,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/2983101\/pexels-photo-2983101.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -113,9 +108,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-
-        "updated_at": "2022-02-18T00:31:23.000000Z"
+        }]
     }, {
         "id": 5,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/1860208\/pexels-photo-1860208.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -136,8 +129,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-        "updated_at": "2022-02-18T00:31:52.000000Z"
+        }]
     }, {
         "id": 6,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/905847\/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -158,8 +150,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-        "updated_at": "2022-02-18T00:32:27.000000Z"
+        }]
     }, {
         "id": 7,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/2323398\/pexels-photo-2323398.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -180,9 +171,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-
-        "updated_at": "2022-02-18T00:32:44.000000Z"
+        }]
     }, {
         "id": 8,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/359993\/pexels-photo-359993.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -203,9 +192,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-
-        "updated_at": "2022-02-18T00:34:02.000000Z"
+        }]
     }, {
         "id": 9,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/858501\/pexels-photo-858501.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -226,8 +213,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-        "updated_at": "2022-02-18T00:34:17.000000Z"
+        }]
     }, {
         "id": 10,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/7866189\/pexels-photo-7866189.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -248,8 +234,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-        "updated_at": "2022-02-18T00:34:41.000000Z"
+        }]
     }, {
         "id": 11,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/5175618\/pexels-photo-5175618.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -270,9 +255,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-
-        "updated_at": "2022-02-18T00:35:17.000000Z"
+        }]
     }, {
         "id": 12,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/7388096\/pexels-photo-7388096.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -293,9 +276,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-
-        "updated_at": "2022-02-18T00:35:43.000000Z"
+        }]
     }, {
         "id": 13,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/5175632\/pexels-photo-5175632.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -316,8 +297,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-        "updated_at": "2022-02-18T00:36:00.000000Z"
+        }]
     }, {
         "id": 14,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/5605529\/pexels-photo-5605529.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -338,8 +318,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-        "updated_at": "2022-02-18T00:36:37.000000Z"
+        }]
     }, {
         "id": 15,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/7333164\/pexels-photo-7333164.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -360,9 +339,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-
-        "updated_at": "2022-02-18T00:36:55.000000Z"
+        }]
     }, {
         "id": 16,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/361184\/asparagus-steak-veal-steak-veal-361184.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -383,8 +360,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-        "updated_at": "2022-02-18T00:37:11.000000Z"
+        }]
     }, {
         "id": 17,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/4101805\/pexels-photo-4101805.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -405,9 +381,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-
-        "updated_at": "2022-02-18T00:37:26.000000Z"
+        }]
     }, {
         "id": 18,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/5898838\/pexels-photo-5898838.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -428,8 +402,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-        "updated_at": "2022-02-18T00:37:55.000000Z"
+        }]
     }, {
         "id": 19,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/3026808\/pexels-photo-3026808.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -450,9 +423,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-
-        "updated_at": "2022-02-18T00:38:14.000000Z"
+        }]
     }, {
         "id": 20,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/628776\/pexels-photo-628776.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -473,8 +444,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-        "updated_at": "2022-02-18T00:38:29.000000Z"
+        }]
     }, {
         "id": 21,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/3850838\/pexels-photo-3850838.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -495,9 +465,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-
-        "updated_at": "2022-02-18T00:38:48.000000Z"
+        }]
     }, {
         "id": 22,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/845802\/pexels-photo-845802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -518,8 +486,7 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-        "updated_at": "2022-02-18T18:24:21.000000Z"
+        }]
     }, {
         "id": 23,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/845802\/pexels-photo-845802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -540,7 +507,6 @@
             "productId": 1,
             "description": "very good",
             "date": "14:00 22.08.2021"
-        }],
-        "updated_at": "2022-02-20T23:19:23.000000Z"
+        }]
     }]
 }
