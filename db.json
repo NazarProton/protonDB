@@ -5,8 +5,8 @@
         "name": "Pizza with mushrooms",
         "count": 8,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "350",
         "comments": [{
@@ -26,8 +26,8 @@
         "name": "Soup",
         "count": 5,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "200",
         "comments": [{
@@ -47,8 +47,8 @@
         "name": "burger",
         "count": 7,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "200",
         "comments": [{
@@ -68,8 +68,8 @@
         "name": "burger2",
         "count": 10,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "200",
         "comments": [{
@@ -89,8 +89,8 @@
         "name": "boul",
         "count": 7,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "350",
         "comments": [{
@@ -110,8 +110,8 @@
         "name": "pizza4",
         "count": 6,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "350",
         "comments": [{
@@ -131,8 +131,8 @@
         "name": "sushi",
         "count": 9,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "200",
         "comments": [{
@@ -152,8 +152,8 @@
         "name": "sushi2",
         "count": 5,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "200",
         "comments": [{
@@ -173,8 +173,8 @@
         "name": "sushi3",
         "count": 7,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "350",
         "comments": [{
@@ -194,8 +194,8 @@
         "name": "steak",
         "count": 14,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "350",
         "comments": [{
@@ -215,8 +215,8 @@
         "name": "chicken",
         "count": 18,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "200",
         "comments": [{
@@ -235,9 +235,9 @@
         "imageUrl": "https:\/\/images.pexels.com\/photos\/5175632\/pexels-photo-5175632.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "name": "kebab",
         "count": 8,
-        "size": {
-            "width": 200,
-            "height": 200
+        "size":{
+            "width": 180,
+            "height": 293
         },
         "weight": "350",
         "comments": [{
@@ -257,8 +257,8 @@
         "name": "soup2",
         "count": 8,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "350",
         "comments": [{
@@ -278,8 +278,8 @@
         "name": "steak1",
         "count": 5,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "200",
         "comments": [{
@@ -299,8 +299,8 @@
         "name": "steak2",
         "count": 7,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "350",
         "comments": [{
@@ -320,8 +320,8 @@
         "name": "steak3",
         "count": 14,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "200",
         "comments": [{
@@ -341,8 +341,8 @@
         "name": "khinkali",
         "count": 25,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "350",
         "comments": [{
@@ -362,8 +362,8 @@
         "name": "soup5",
         "count": 7,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "200",
         "comments": [{
@@ -383,8 +383,8 @@
         "name": "seafood",
         "count": 7,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "350",
         "comments": [{
@@ -404,8 +404,8 @@
         "name": "breakfast",
         "count": 9,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "200",
         "comments": [{
@@ -425,8 +425,8 @@
         "name": "Pizza",
         "count": 4,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "350",
         "comments": [{
@@ -446,8 +446,8 @@
         "name": "Pizza",
         "count": 7,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 180,
+            "height": 293
         },
         "weight": "350",
         "comments": [{
