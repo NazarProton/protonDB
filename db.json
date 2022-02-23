@@ -231,27 +231,6 @@
             "date": "14:00 22.08.2021"
         }]
     }, {
-        "id": 12,
-        "imageUrl": "https:\/\/images.pexels.com\/photos\/7388096\/pexels-photo-7388096.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "name": "tacos",
-        "count": 4,
-        "size": {
-            "width": 200,
-            "height": 200
-        },
-        "weight": "200",
-        "comments": [{
-            "id": 1,
-            "productId": 1,
-            "description": "exellent",
-            "date": "14:00 22.08.2021"
-        }, {
-            "id": 2,
-            "productId": 1,
-            "description": "very good",
-            "date": "14:00 22.08.2021"
-        }]
-    }, {
         "id": 13,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/5175632\/pexels-photo-5175632.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "name": "kebab",
