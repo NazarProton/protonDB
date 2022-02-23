@@ -5,7 +5,7 @@
         "name": "Pizza with mushrooms",
         "count": 8,
         "size": {
-            "width": 293,
+            "width": auto,
             "height": 180
         },
         "weight": "350",
