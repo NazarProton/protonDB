@@ -3,12 +3,13 @@
         "id": 1,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/1552635\/pexels-photo-1552635.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "name": "Pizza with mushrooms",
-        "count": 8,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "350g",
+        "price": "4",
+        "desc": "",
+        "weight": "350",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -24,12 +25,13 @@
         "id": 2,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/1618921\/pexels-photo-1618921.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "name": "Soup",
-        "count": 5,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "200g",
+        "price": "3",
+        "desc": "",
+        "weight": "200",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -45,12 +47,13 @@
         "id": 3,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/1199960\/pexels-photo-1199960.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "name": "burger",
-        "count": 7,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "200g",
+        "price": "5",
+        "desc": "",
+        "weight": "200",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -66,12 +69,13 @@
         "id": 4,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/2983101\/pexels-photo-2983101.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "name": "burger2",
-        "count": 10,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "200g",
+        "price": "5",
+        "desc": "",
+        "weight": "200",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -87,12 +91,13 @@
         "id": 5,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/1860208\/pexels-photo-1860208.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "name": "boul",
-        "count": 7,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "350g",
+        "price": "3",
+        "desc": "",
+        "weight": "350",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -108,12 +113,13 @@
         "id": 6,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/905847\/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "name": "pizza4",
-        "count": 6,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "350g",
+        "price": "6",
+        "desc": "",
+        "weight": "350",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -129,12 +135,13 @@
         "id": 7,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/2323398\/pexels-photo-2323398.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "name": "sushi",
-        "count": 9,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "200g",
+        "price": "7",
+        "desc": "",
+        "weight": "200",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -150,12 +157,13 @@
         "id": 8,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/359993\/pexels-photo-359993.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "name": "sushi2",
-        "count": 5,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "200g",
+        "price": "9",
+        "desc": "",
+        "weight": "200",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -171,12 +179,13 @@
         "id": 9,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/858501\/pexels-photo-858501.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "name": "sushi3",
-        "count": 7,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "350g",
+        "price": "8",
+        "desc": "",
+        "weight": "350",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -192,12 +201,13 @@
         "id": 10,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/7866189\/pexels-photo-7866189.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "name": "steak",
-        "count": 14,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "350g",
+        "price": "11",
+        "desc": "",
+        "weight": "350",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -213,12 +223,13 @@
         "id": 11,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/5175618\/pexels-photo-5175618.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "name": "chicken",
-        "count": 18,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "200g",
+        "price": "4",
+        "desc": "",
+        "weight": "200",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -232,14 +243,15 @@
         }]
     }, {
         "id": 12,
-        "imageUrl": "https:\/\/images.pexels.com\/photos\/7388096\/pexels-photo-7388096.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "name": "tacos",
-        "count": 4,
+        "imageUrl": "https:\/\/images.pexels.com\/photos\/5175632\/pexels-photo-5175632.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "kebab",
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "200g",
+        "price": "4",
+        "desc": "",
+        "weight": "350",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -253,14 +265,15 @@
         }]
     }, {
         "id": 13,
-        "imageUrl": "https:\/\/images.pexels.com\/photos\/5175632\/pexels-photo-5175632.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "name": "kebab",
-        "count": 8,
+        "imageUrl": "https:\/\/images.pexels.com\/photos\/5605529\/pexels-photo-5605529.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "soup2",
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "350g",
+        "price": "3",
+        "desc": "",
+        "weight": "350",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -274,14 +287,15 @@
         }]
     }, {
         "id": 14,
-        "imageUrl": "https:\/\/images.pexels.com\/photos\/5605529\/pexels-photo-5605529.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "name": "soup2",
-        "count": 8,
+        "imageUrl": "https:\/\/images.pexels.com\/photos\/7333164\/pexels-photo-7333164.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "steak1",
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "350g",
+        "price": "12",
+        "desc": "",
+        "weight": "200",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -295,14 +309,15 @@
         }]
     }, {
         "id": 15,
-        "imageUrl": "https:\/\/images.pexels.com\/photos\/7333164\/pexels-photo-7333164.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "name": "steak1",
-        "count": 5,
+        "imageUrl": "https:\/\/images.pexels.com\/photos\/361184\/asparagus-steak-veal-steak-veal-361184.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "steak2",
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "200g",
+        "price": "10",
+        "desc": "",
+        "weight": "350",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -316,14 +331,15 @@
         }]
     }, {
         "id": 16,
-        "imageUrl": "https:\/\/images.pexels.com\/photos\/361184\/asparagus-steak-veal-steak-veal-361184.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "name": "steak2",
-        "count": 7,
+        "imageUrl": "https:\/\/images.pexels.com\/photos\/4101805\/pexels-photo-4101805.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "steak3",
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "350g",
+        "price": "13",
+        "desc": "",
+        "weight": "200",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -337,14 +353,15 @@
         }]
     }, {
         "id": 17,
-        "imageUrl": "https:\/\/images.pexels.com\/photos\/4101805\/pexels-photo-4101805.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "name": "steak3",
-        "count": 14,
+        "imageUrl": "https:\/\/images.pexels.com\/photos\/5898838\/pexels-photo-5898838.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "khinkali",
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "200g",
+        "price": "5",
+        "desc": "",
+        "weight": "350",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -358,14 +375,15 @@
         }]
     }, {
         "id": 18,
-        "imageUrl": "https:\/\/images.pexels.com\/photos\/5898838\/pexels-photo-5898838.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "name": "khinkali",
-        "count": 25,
+        "imageUrl": "https:\/\/images.pexels.com\/photos\/3026808\/pexels-photo-3026808.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "soup5",
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "350g",
+        "price": "3",
+        "desc": "",
+        "weight": "200",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -379,14 +397,15 @@
         }]
     }, {
         "id": 19,
-        "imageUrl": "https:\/\/images.pexels.com\/photos\/3026808\/pexels-photo-3026808.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "name": "soup5",
-        "count": 7,
+        "imageUrl": "https:\/\/images.pexels.com\/photos\/628776\/pexels-photo-628776.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "seafood",
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "200g",
+        "price": "7",
+        "desc": "",
+        "weight": "350",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -400,14 +419,15 @@
         }]
     }, {
         "id": 20,
-        "imageUrl": "https:\/\/images.pexels.com\/photos\/628776\/pexels-photo-628776.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "name": "seafood",
-        "count": 7,
+        "imageUrl": "https:\/\/images.pexels.com\/photos\/3850838\/pexels-photo-3850838.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "breakfast",
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "350g",
+        "price": "3",
+        "desc": "",
+        "weight": "200",
         "comments": [{
             "id": 1,
             "productId": 1,
@@ -421,56 +441,15 @@
         }]
     }, {
         "id": 21,
-        "imageUrl": "https:\/\/images.pexels.com\/photos\/3850838\/pexels-photo-3850838.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "name": "breakfast",
-        "count": 9,
-        "size": {
-            "width": 200,
-            "height": 200
-        },
-        "weight": "200g",
-        "comments": [{
-            "id": 1,
-            "productId": 1,
-            "description": "exellent",
-            "date": "14:00 22.08.2021"
-        }, {
-            "id": 2,
-            "productId": 1,
-            "description": "very good",
-            "date": "14:00 22.08.2021"
-        }]
-    }, {
-        "id": 22,
-        "imageUrl": "https:\/\/images.pexels.com\/photos\/845802\/pexels-photo-845802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "imageUrl": "https:\/\/images.pexels.com\/photos\/845802\/pexels-photo-845802.jpeg?auto=compress&cs=tinysrgb&dpr==1&w=500",
         "name": "Pizza",
-        "count": 4,
         "size": {
-            "width": 200,
-            "height": 200
+            "width": 293,
+            "height": 180
         },
-        "weight": "350g",
-        "comments": [{
-            "id": 1,
-            "productId": 1,
-            "description": "exellent",
-            "date": "14:00 22.08.2021"
-        }, {
-            "id": 2,
-            "productId": 1,
-            "description": "very good",
-            "date": "14:00 22.08.2021"
-        }]
-    }, {
-        "id": 23,
-        "imageUrl": "https:\/\/images.pexels.com\/photos\/845802\/pexels-photo-845802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "name": "Pizza",
-        "count": 7,
-        "size": {
-            "width": 200,
-            "height": 200
-        },
-        "weight": "350g",
+        "price": "6",
+        "desc": "",
+        "weight": "350",
         "comments": [{
             "id": 1,
             "productId": 1,
