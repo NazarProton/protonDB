@@ -7,13 +7,8 @@
             "width": 293,
             "height": 180
         },
-<<<<<<< HEAD
-        "price": "4",
-        "desc": "",
-=======
-        "price":4,
+        "price":"4",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "350",
         "comments": [{
             "id": 1,
@@ -34,13 +29,8 @@
             "width": 293,
             "height": 180
         },
-<<<<<<< HEAD
-        "price": "3",
-        "desc": "",
-=======
-        "price":3,
+        "price":"3",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "200",
         "comments": [{
             "id": 1,
@@ -61,13 +51,8 @@
             "width": 293,
             "height": 180
         },
-<<<<<<< HEAD
-        "price": "5",
-        "desc": "",
-=======
-        "price":5,
+        "price":"5",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "200",
         "comments": [{
             "id": 1,
@@ -88,13 +73,8 @@
             "width": 293,
             "height": 180
         },
-<<<<<<< HEAD
-        "price": "5",
-        "desc": "",
-=======
-        "price":5,
+        "price":"5",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "200",
         "comments": [{
             "id": 1,
@@ -115,13 +95,8 @@
             "width": 293,
             "height": 180
         },
-<<<<<<< HEAD
-        "price": "3",
-        "desc": "",
-=======
-        "price":3,
+        "price":"3",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "350",
         "comments": [{
             "id": 1,
@@ -142,13 +117,8 @@
             "width": 293,
             "height": 180
         },
-<<<<<<< HEAD
-        "price": "6",
-        "desc": "",
-=======
-        "price":6,
+        "price":"6",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "350",
         "comments": [{
             "id": 1,
@@ -169,13 +139,8 @@
             "width": 293,
             "height": 180
         },
-<<<<<<< HEAD
-        "price": "7",
-        "desc": "",
-=======
-        "price":7,
+        "price":"7",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "200",
         "comments": [{
             "id": 1,
@@ -196,13 +161,8 @@
             "width": 293,
             "height": 180
         },
-<<<<<<< HEAD
-        "price": "9",
-        "desc": "",
-=======
-        "price":9,
+        "price":"9",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "200",
         "comments": [{
             "id": 1,
@@ -223,13 +183,8 @@
             "width": 293,
             "height": 180
         },
-<<<<<<< HEAD
-        "price": "8",
-        "desc": "",
-=======
-        "price":8,
+        "price":"8",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "350",
         "comments": [{
             "id": 1,
@@ -250,13 +205,8 @@
             "width": 293,
             "height": 180
         },
-<<<<<<< HEAD
-        "price": "11",
-        "desc": "",
-=======
-        "price":11,
+        "price":"11",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "350",
         "comments": [{
             "id": 1,
@@ -273,22 +223,12 @@
         "id": 11,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/5175618\/pexels-photo-5175618.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "name": "chicken",
-<<<<<<< HEAD
-        "size": {
-            "width": 293,
-            "height": 180
-        },
-        "price": "4",
-        "desc": "",
-=======
-        "count": 18,
         "size":{
             "width": 293,
             "height": 180
         },
-        "price":4,
+        "price":"4",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "200",
         "comments": [{
             "id": 1,
@@ -305,22 +245,12 @@
         "id": 12,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/5175632\/pexels-photo-5175632.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "name": "kebab",
-<<<<<<< HEAD
-        "size": {
-            "width": 293,
-            "height": 180
-        },
-        "price": "4",
-        "desc": "",
-=======
-        "count": 8,
         "size":{
             "width": 293,
             "height": 180
         },
-        "price":4,
+        "price":"4",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "350",
         "comments": [{
             "id": 1,
@@ -341,13 +271,8 @@
             "width": 293,
             "height": 180
         },
-<<<<<<< HEAD
-        "price": "3",
-        "desc": "",
-=======
-        "price":3,
+        "price":"3",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "350",
         "comments": [{
             "id": 1,
@@ -368,13 +293,8 @@
             "width": 293,
             "height": 180
         },
-<<<<<<< HEAD
-        "price": "12",
-        "desc": "",
-=======
-        "price":12,
+        "price":"12",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "200",
         "comments": [{
             "id": 1,
@@ -395,13 +315,8 @@
             "width": 293,
             "height": 180
         },
-<<<<<<< HEAD
-        "price": "10",
-        "desc": "",
-=======
-        "price":13,
+        "price":"10",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "350",
         "comments": [{
             "id": 1,
@@ -422,13 +337,8 @@
             "width": 293,
             "height": 180
         },
-<<<<<<< HEAD
-        "price": "13",
-        "desc": "",
-=======
-        "price":10,
+        "price":"13",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "200",
         "comments": [{
             "id": 1,
@@ -449,13 +359,8 @@
             "width": 293,
             "height": 180
         },
-<<<<<<< HEAD
-        "price": "5",
-        "desc": "",
-=======
-        "price":5,
+        "price":"5",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "350",
         "comments": [{
             "id": 1,
@@ -474,15 +379,10 @@
         "name": "soup5",
         "size": {
             "width": 293,
-            "height": 180
+            "heiAght": 180
         },
-<<<<<<< HEAD
-        "price": "3",
-        "desc": "",
-=======
-        "price":3,
+        "price":"3",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "200",
         "comments": [{
             "id": 1,
@@ -503,13 +403,8 @@
             "width": 293,
             "height": 180
         },
-<<<<<<< HEAD
-        "price": "7",
-        "desc": "",
-=======
-        "price":7,
+        "price":"7",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "350",
         "comments": [{
             "id": 1,
@@ -530,13 +425,8 @@
             "width": 293,
             "height": 180
         },
-<<<<<<< HEAD
-        "price": "3",
-        "desc": "",
-=======
-        "price":3,
+        "price":"3",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "200",
         "comments": [{
             "id": 1,
@@ -553,21 +443,12 @@
         "id": 21,
         "imageUrl": "https:\/\/images.pexels.com\/photos\/845802\/pexels-photo-845802.jpeg?auto=compress&cs=tinysrgb&dpr==1&w=500",
         "name": "Pizza",
-<<<<<<< HEAD
-=======
-        "count": 4,
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "size": {
             "width": 293,
             "height": 180
         },
-<<<<<<< HEAD
-        "price": "6",
-        "desc": "",
-=======
-        "price":6,
+        "price":"6",
         "desc":"",
->>>>>>> 6bd325cb5fa4ba61e1e1d83457b36c93e888517f
         "weight": "350",
         "comments": [{
             "id": 1,
